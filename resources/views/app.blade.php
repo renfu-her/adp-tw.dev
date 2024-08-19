@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="icon" href="/logo.png">
+    <link rel="icon" href="/favicon.svg">
     <title>昶安奈米應用科技有限公司</title>
     <script defer="defer" src="/js/chunk-vendors.d6ebf372.js"></script>
     <script defer="defer" src="/js/app.84982f63.js"></script>
